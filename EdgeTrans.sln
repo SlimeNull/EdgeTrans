@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeTrans", "EdgeTrans\EdgeTrans.csproj", "{8A009F77-186F-4A33-93EA-711407D74A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{3B47F69C-FD52-4CFF-846E-2CE3792314C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A009F77-186F-4A33-93EA-711407D74A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A009F77-186F-4A33-93EA-711407D74A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A009F77-186F-4A33-93EA-711407D74A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A009F77-186F-4A33-93EA-711407D74A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B47F69C-FD52-4CFF-846E-2CE3792314C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B47F69C-FD52-4CFF-846E-2CE3792314C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B47F69C-FD52-4CFF-846E-2CE3792314C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B47F69C-FD52-4CFF-846E-2CE3792314C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B92679-F2B4-408A-8435-0472F83E3DB2}
+	EndGlobalSection
+EndGlobal
